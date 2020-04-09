@@ -1,0 +1,5 @@
+package com.poker.templates;
+
+public enum Figura {
+	DWOJKA, TROJKA, CZWÓRKA, PIATKA, SZOSTKA, SIODEMKA, OSEMKA, DZIEWIATKA, DZIESIATKA, WALET, DAMA, KROL, AS
+}
