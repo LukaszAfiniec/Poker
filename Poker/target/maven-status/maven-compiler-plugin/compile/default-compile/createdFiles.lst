@@ -1,0 +1,11 @@
+com\poker\implemetation\Karta.class
+com\poker\templates\IUkladKart.class
+com\poker\implemetation\SprawdzenieUkladu.class
+com\poker\templates\IKarta.class
+com\poker\templates\Uklad.class
+com\poker\implemetation\UkladKart.class
+com\poker\implemetation\Talia.class
+com\poker\templates\Kolor.class
+com\poker\templates\Figura.class
+com\poker\templates\ITalia.class
+com\poker\apk\Main.class
